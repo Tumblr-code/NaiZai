@@ -1,5 +1,5 @@
 
-docker exec -it qinglong bash && cd /repo && git clone https://github.com/Qi19931106/NaiZai.git Tumblr
+docker exec -it qinglong bash && cd /repo && git clone https://github.com/Tumblr-code/NaiZai.git Tumblr
 
 vi /ql/config/jk.json
 修改脚本目录为
