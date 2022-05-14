@@ -3,7 +3,7 @@ docker exec -it qinglong bash && cd /repo && git clone https://github.com/Tumblr
 
 vi /ql/config/jk.json
 修改脚本目录为
-/ql/repo/Tumblr/xxx.js
+/ql/repo/NaiZai/xxx.js
 
 vi /ql/config/diybotset.json
 修改监听频道为
