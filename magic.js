@@ -14,7 +14,7 @@ let testMode = process.env.TEST_MODE?.includes('on') ? true
 let mode = process.env.MODE ? process.env.MODE : "local"
 
 let apiToken = process.env.M_API_TOKEN ? process.env.M_API_TOKEN : ""
-let apiSignUrl = process.env.M_API_SIGN_URL ? process.env.M_API_SIGN_URL : "http://158.101.153.139:19840/sign"
+let apiSignUrl = process.env.M_API_SIGN_URL ? process.env.M_API_SIGN_URL : "http://imagic.eu.org:17840/sign"
 
 let wxBlackCookiePin = process.env.M_WX_BLACK_COOKIE_PIN
     ? process.env.M_WX_BLACK_COOKIE_PIN : ''
@@ -22,6 +22,7 @@ let wxBlackCookiePin = process.env.M_WX_BLACK_COOKIE_PIN
 Object.keys(jdCookieNode).forEach((item) => {
     cookies.push(jdCookieNode[item])
 })
+let LZ_AES_PIN = process.env.M_LZ_AES_PIN ? process.env.M_LZ_AES_PIN : ""
 
 const JDAPP_USER_AGENTS = [
     `jdapp;android;10.0.2;9;${uuid()};network/wifi;Mozilla/5.0 (Linux; Android 9; MHA-AL00 Build/HUAWEIMHA-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044942 Mobile Safari/537.36`,
@@ -122,9 +123,9 @@ class Env {
         blacklist: [],
         whitelist: []
     }) {
-        console.log('运行参数：', data);
+        //console.log('运行参数：', data);
         this.filename = process.argv[1];
-        console.log(`${this.now()} ${this.name} ${this.filename} 开始运行...`);
+        //console.log(`${this.name} ${this.filename} 开始运行...`);
         this.start = this.timestamp();
         let accounts = "";
         if (__dirname.includes("magic")) {
@@ -147,14 +148,14 @@ class Env {
             this.bot = data.bot;
         }
 
-        console.log('原始ck长度', cookies.length)
+        //console.log('账号总数：', cookies.length)
         if (data?.blacklist?.length > 0) {
             for (const cki of this.__as(data.blacklist)) {
                 delete cookies[cki - 1];
             }
         }
         this.delBlackCK()
-        console.log('排除黑名单后ck长度', cookies.length)
+        //console.log('排除黑号：', cookies.length)
         if (data?.whitelist?.length > 0) {
             let cks = []
             for (const cki of this.__as(data.whitelist)) {
@@ -164,7 +165,7 @@ class Env {
             }
             cookies = cks;
         }
-        console.log('设置白名单后ck长度', cookies.length)
+        console.log('运行账号：', cookies.length)
 
         if (data?.random) {
             cookies = this.randomArray(cookies)
@@ -230,7 +231,7 @@ class Env {
             }
         }
         await this.after()
-        console.log(`${this.now()} ${this.name} 运行结束,耗时 ${this.timestamp()
+        console.log(`${this.name} 运行结束,耗时 ${this.timestamp()
         - this.start}ms\n`)
         testMode && this.msg.length > 0 ? console.log(this.msg.join("\n")) : ''
         if (!data?.o2o) {
@@ -311,7 +312,7 @@ class Env {
     async send() {
         if (this.msg?.length > 0) {
             this.msg.push(
-                `\n时间：${this.now()} 时长：${((this.timestamp() - this.start)
+                `\n时间：时长：${((this.timestamp() - this.start)
                     / 1000).toFixed(2)}s`)
             if (this.bot) {
                 await notify.sendNotify("/" + this.name,
@@ -400,7 +401,7 @@ class Env {
 
     log(...msg) {
         this.s ? console.log(...msg) : console.log(
-            `${this.now()} ${this.accounts[this.username] || this.username}`,
+            `${this.accounts[this.username] || this.username}`,
             ...msg)
     }
 
@@ -669,8 +670,8 @@ class Env {
         let scs = data?.headers['set-cookie'] || data?.headers['Set-Cookie']
             || ''
         if (!scs) {
-            if (data?.data?.LZ_TOKEN_KEY && data?.data?.LZ_TOKEN_VALUE) {
-                this.lz = `LZ_TOKEN_KEY=${data.data.LZ_TOKEN_KEY};LZ_TOKEN_VALUE=${data.data.LZ_TOKEN_VALUE};`;
+            if (data?.data?.LZ_TOKEN_KEY && data?.data?.LZ_TOKEN_VALUE && data?.data?.LZ_AES_PIN) {
+                this.lz = `LZ_TOKEN_KEY=${data.data.LZ_TOKEN_KEY};LZ_TOKEN_VALUE=${data.data.LZ_TOKEN_VALUE};LZ_AES_PIN=${data.data.LZ_AES_PIN};`;
             }
             return;
         }
@@ -684,6 +685,8 @@ class Env {
                     / /g, '') + ';' : ''
                 name.includes('LZ_TOKEN_VALUE=')
                     ? LZ_TOKEN_VALUE = name.replace(/ /g, '') + ';' : ''
+                name.includes('LZ_AES_PIN=') ? LZ_AES_PIN = name.replace(
+                    / /g, '') + ';' : ''
                 name.includes('JSESSIONID=') ? JSESSIONID = name.replace(/ /g,
                     '') + ';' : ''
                 name.includes('jcloud_alb_route=')
@@ -692,7 +695,9 @@ class Env {
                     '') + ';' : ''
             }
         }
-        if (JSESSIONID && LZ_TOKEN_KEY && LZ_TOKEN_VALUE) {
+        if (JSESSIONID && LZ_TOKEN_KEY && LZ_TOKEN_VALUE && LZ_AES_PIN) {
+            this.lz = `${JSESSIONID}${LZ_TOKEN_KEY}${LZ_TOKEN_VALUE}${LZ_AES_PIN}`
+        } else if (JSESSIONID && LZ_TOKEN_KEY && LZ_TOKEN_VALUE) {
             this.lz = `${JSESSIONID}${LZ_TOKEN_KEY}${LZ_TOKEN_VALUE}`
         } else if (LZ_TOKEN_KEY && LZ_TOKEN_VALUE) {
             this.lz = `${LZ_TOKEN_KEY}${LZ_TOKEN_VALUE}`
@@ -854,13 +859,14 @@ class Env {
 
     async sign(fn, body = {}) {
         let b = {"fn": fn, "body": body};
-        let h = {"token": apiToken}
+        let h = {"key": "fMQ8sw1y5zF4RZgT"}
         try {
-            let {data} = await this.request(apiSignUrl, h, b);
-            console.log(data)
+            let {data} = await this.request(`http://imagic.eu.org:17840/sign`,h, b);
+            //console.log(data)
             return {fn: data.fn, sign: data.body};
         } catch (e) {
             console.log("sign接口异常")
+            //console.log("请自行配置sign实现")
         }
         return {fn: "", sign: ""};
     }
@@ -946,6 +952,7 @@ class Env {
         let ck = `IsvToken=${this.Token};` + this.lz + (this.Pin
             && "AUTH_C_USER=" + this.Pin + ";" || "")
         this.domain.includes('cjhy') ? ck += 'APP_ABBR=CJHY;' : ''
+        if (fn.includes('followShop')) ck += `${LZ_AES_PIN}`
         let headers = {
             "Host": this.domain,
             "Accept": "application/json",
