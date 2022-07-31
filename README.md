@@ -10,4 +10,4 @@ vi /ql/config/diybotset.json
 -1001712229106
 
 仅供学习 搬运WALL.E jdrain 两位大佬 感谢！
-啥也不说，准备换教程
+
