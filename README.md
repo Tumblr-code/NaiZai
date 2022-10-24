@@ -1,13 +1,3 @@
 
-docker exec -it qinglong bash && cd /repo && git clone https://github.com/Tumblr-code/NaiZai.git NaiZai
-
-vi /ql/config/jk.json
-修改脚本目录为
-/ql/repo/NaiZai/xxx.js
-
-vi /ql/config/diybotset.json
-修改监听频道为
--1001712229106
-
-仅供学习 搬运WALL.E jdrain 两位大佬 感谢！
+仅供学习 
 
