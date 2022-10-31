@@ -273,3 +273,21 @@ export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activit
 [INFO TIME:2022-11-01 02:06:20,466] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=2a39dbf565b04e3db686345d8137aa35"
 [INFO TIME:2022-11-01 02:06:20,467] 小雷快递站(-1001883797209)消息：export jd_shopSign_activityUrl="https://cjhy-isv.isvjcloud.com/sign/signActivity?activityId=9bc36490448f44c7aaef7d910eb21e5d"
 [INFO TIME:2022-11-01 02:06:20,468] 小雷快递站(-1001883797209)消息：删除 gua_opencard252.js
+[INFO TIME:2022-11-01 02:06:25,217] git push
+[INFO TIME:2022-11-01 02:06:28,887] 小雷快递站(-1001883797209)消息：https://u.jd.com/xwSTMg5
+[INFO TIME:2022-11-01 02:06:28,888] 小雷快递站(-1001883797209)消息：解析地址：https://lives.jd.com/?d=xwSTMg5&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002070633_1589_169_1&utm_term=b68d93f9d82f41b4aa289b8b29612831#/11633563?sharer=%e8%93%9d%e8%89%b2%e9%9b%a8%ef%bc%8bR62663
+[INFO TIME:2022-11-01 02:06:33,183] 小雷快递站(-1001883797209)消息：## 京东直播 ∶ 
+ 
+export DOU_LIVE_ID="11633563"
+[INFO TIME:2022-11-01 02:06:33,185] 小雷快递站(-1001883797209)消息：## 京东直播 ∶ 
+ 
+export DOU_LIVE_ID="11633563"
+[INFO TIME:2022-11-01 02:06:33,187] 小雷快递站(-1001883797209)消息：https://u.jd.com/xdSJA6Y
+[INFO TIME:2022-11-01 02:06:33,189] 小雷快递站(-1001883797209)消息：解析地址：https://lives.jd.com/?d=xdSJA6Y&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002070633_1589_169_1&utm_term=f70bf89a373845dbaf2e050986de0f2d#/11679552/live?origin=2&appid=jdzb&sharer=%e8%93%9d%e8%89%b2%e9%9b%a8%ef%bc%8bR62663&rid=12439
+[INFO TIME:2022-11-01 02:06:33,190] 小雷快递站(-1001883797209)消息：## 京东直播 ∶ 
+ 
+export DOU_LIVE_ID="11679552/live"
+[INFO TIME:2022-11-01 02:06:33,191] 小雷快递站(-1001883797209)消息：## 京东直播 ∶ 
+ 
+export DOU_LIVE_ID="11679552/live"
+[INFO TIME:2022-11-01 02:06:33,192] 小雷快递站(-1001883797209)消息：删除 gua_opencard252.js
