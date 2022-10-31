@@ -291,3 +291,71 @@ export DOU_LIVE_ID="11679552/live"
  
 export DOU_LIVE_ID="11679552/live"
 [INFO TIME:2022-11-01 02:06:33,192] 小雷快递站(-1001883797209)消息：删除 gua_opencard252.js
+[INFO TIME:2022-11-01 02:06:38,239] git push
+[INFO TIME:2022-11-01 02:06:46,807] 小雷快递站(-1001883797209)消息：https://lzkjdz-isv.isvjcloud.com/wxSecond/activity?activityId=5416fe800cd04d7794ee97f2b90df01d&shareUuid=98a2af0e19534497ba48db989d01a435&shareuserid4minipg=6Y8VEuK7IC9Nsz86TCU3yU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==&shopid=1000310642
+[INFO TIME:2022-11-01 02:06:46,808] 小雷快递站(-1001883797209)消息：## 读秒 ∶ 
+ 
+export jd_wxSecond_activityId="5416fe800cd04d7794ee97f2b90df01d"
+[INFO TIME:2022-11-01 02:06:59,890] 小雷快递站(-1001883797209)消息：export LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5349631?activityId=d342becd79e6486da4e44bd528610912"
+[INFO TIME:2022-11-01 02:06:59,891] 小雷快递站(-1001883797209)消息：http://jd.lsy22.cn/Aha
+[INFO TIME:2022-11-01 02:06:59,892] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5349631?activityId=d342becd79e6486da4e44bd528610912"
+[INFO TIME:2022-11-01 02:06:59,892] 小雷快递站(-1001883797209)消息：解析地址：https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5349631?activityId=d342becd79e6486da4e44bd528610912&shareuserid4minipg=A3BDcIXTnX9wyUZHBEEHXZg%252B7GbSKNk26q5GzBQZNgKQ9gF81DCaDPiq52lHS8CF&shopid=1000328203&_ts=1667239473902&utm_source=iosapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends&ad_od=share&utm_user=plusmember
+[INFO TIME:2022-11-01 02:06:59,893] 小雷快递站(-1001883797209)消息：## 转盘抽奖 ∶ 
+ 
+export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5349631?activityId=d342becd79e6486da4e44bd528610912"
+[INFO TIME:2022-11-01 02:06:59,894] 小雷快递站(-1001883797209)消息：## 转盘抽奖 ∶ 
+ 
+export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5349631?activityId=d342becd79e6486da4e44bd528610912"
+[INFO TIME:2022-11-01 02:07:21,732] 小雷快递站(-1001883797209)消息：export LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5349631?activityId=d342becd79e6486da4e44bd528610912"
+[INFO TIME:2022-11-01 02:07:21,733] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5349631?activityId=d342becd79e6486da4e44bd528610912"
+[INFO TIME:2022-11-01 02:07:21,734] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5349631?activityId=d342becd79e6486da4e44bd528610912&shareuserid4minipg=A3BDcIXTnX9wyUZHBEEHXZg%252B7GbSKNk26q5GzBQZNgKQ9gF81DCaDPiq52lHS8CF&shopid=1000328203&_ts=1667239473902&utm_source=iosapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends&ad_od=share&utm_user=plusmember"
+[INFO TIME:2022-11-01 02:08:56,854] 小雷快递站(-1001883797209)消息：export jd_wxgame_activityId="81e18f28bb62467499787eab7babffa1"
+[INFO TIME:2022-11-01 02:09:19,966] 小雷快递站(-1001883797209)消息：export jd_task_qdyl_custom="https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=edd89ef9efad4170bfd3fdbfa90d7f60&venderId=1000014142&"
+[INFO TIME:2022-11-01 02:09:19,967] 小雷快递站(-1001883797209)消息：export jd_wxgame_activityId="81e18f28bb62467499787eab7babffa1"
+[INFO TIME:2022-11-01 02:09:28,580] 小雷快递站(-1001883797209)消息：https://u.jd.com/xISNzfS
+[INFO TIME:2022-11-01 02:09:28,581] 小雷快递站(-1001883797209)消息：解析地址：https://lives.jd.com/?d=xISNzfS&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002070633_1589_169_1&utm_term=b29ef53ba7df41a8b738e5ec83b183c1#/11611257?sharer=%e8%93%9d%e8%89%b2%e9%9b%a8%ef%bc%8bR62663
+[INFO TIME:2022-11-01 02:09:28,581] 小雷快递站(-1001883797209)消息：## 京东直播 ∶ 
+ 
+export DOU_LIVE_ID="11611257"
+[INFO TIME:2022-11-01 02:09:28,582] 小雷快递站(-1001883797209)消息：## 京东直播 ∶ 
+ 
+export DOU_LIVE_ID="11611257"
+[INFO TIME:2022-11-01 02:09:50,213] 小雷快递站(-1001883797209)消息：export jd_shopSign_activityUrl="https://lzkj-isv.isvjcloud.com/sign/signActivity2?activityId=edd89ef9efad4170bfd3fdbfa90d7f60"
+[INFO TIME:2022-11-01 02:10:23,913] 网络异常
+[INFO TIME:2022-11-01 02:11:12,975] 小雷快递站(-1001883797209)消息：https://u.jd.com/xdSAI95
+[INFO TIME:2022-11-01 02:11:12,976] 小雷快递站(-1001883797209)消息：解析地址：https://lives.jd.com/?d=xdSAI95&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002070633_1589_169_1&utm_term=48bd8ebcd79643c0a0ecb016bff8a010#/11601429?sharer=%e8%93%9d%e8%89%b2%e9%9b%a8%ef%bc%8bR62663
+[INFO TIME:2022-11-01 02:11:12,977] 小雷快递站(-1001883797209)消息：## 京东直播 ∶ 
+ 
+export DOU_LIVE_ID="11601429"
+[INFO TIME:2022-11-01 02:11:12,978] 小雷快递站(-1001883797209)消息：## 京东直播 ∶ 
+ 
+export DOU_LIVE_ID="11601429"
+[INFO TIME:2022-11-01 02:12:07,292] 网络异常
+[INFO TIME:2022-11-01 02:12:11,360] 小雷快递站(-1001883797209)消息：跳app左侧 每天签积分
+https://u.jd.com/xwSPoei
+塞上牛 10积分换1🧧2300份
+http://jd.lsy22.cn/Aen
+[INFO TIME:2022-11-01 02:12:11,362] 小雷快递站(-1001883797209)消息：https://u.jd.com/xwSPoei http://jd.lsy22.cn/Aen
+[INFO TIME:2022-11-01 02:12:11,364] 小雷快递站(-1001883797209)消息：解析地址：https://shop.m.jd.com/?shopId=1000351754&ad_od=share&utm_user=plusmember&gx=RnFtwDFbaz3Qz9QUrId0XbZ64ToV_P9k&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002070633_&utm_term=83c2e0ad11ef460a934ffacef90c7af7
+[INFO TIME:2022-11-01 02:12:11,366] 小雷快递站(-1001883797209)消息：解析地址：https://shop.m.jd.com/?shopId=1000351754&ad_od=share&utm_user=plusmember&gx=RnFtwDFbaz3Qz9QUrId0XbZ64ToV_P9k&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002070633_&utm_term=4cb53da1e6e84730a8b06a3327bb381d
+[INFO TIME:2022-11-01 02:12:11,367] 小雷快递站(-1001883797209)消息：解析地址：https://shopmember.m.jd.com/memberpoint/?venderId=1000351754&shopId=1000351754&venderType=1&channel=406&levelZeroMenuUrl=undefined
+[INFO TIME:2022-11-01 02:12:11,369] 小雷快递站(-1001883797209)消息：解析地址：https://shopmember.m.jd.com/memberpoint/?venderId=1000351754&shopId=1000351754&venderType=1&channel=406&levelZeroMenuUrl=undefined
+[INFO TIME:2022-11-01 02:12:11,370] 小雷快递站(-1001883797209)消息：暂无商品信息。
+[INFO TIME:2022-11-01 02:12:11,371] 小雷快递站(-1001883797209)消息：暂无商品信息。
+[INFO TIME:2022-11-01 02:13:00,873] 小雷快递站(-1001883797209)消息：https://u.jd.com/kweDz9q?u_scene=1
+[INFO TIME:2022-11-01 02:13:00,875] 小雷快递站(-1001883797209)消息：解析地址：https://prodev.m.jd.com/mall/active/2QPgcbnrRzSas2AFvNxFrcXb73zi/index.html?unionActId=31149&uabt=169_620_1&d=kweDz9q&s=&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_2011745054_&utm_term=52318b880f01435bb2800d020b082cb4
+[INFO TIME:2022-11-01 02:13:17,382] 小雷快递站(-1001883797209)消息：https://u.jd.com/xMSHBi7
+[INFO TIME:2022-11-01 02:13:17,383] 小雷快递站(-1001883797209)消息：解析地址：https://lives.jd.com/?d=xMSHBi7&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002070633_1589_169_1&utm_term=7119bfb49206445aa0a7bdfc7890ea4a#/11669030?sharer=%e8%93%9d%e8%89%b2%e9%9b%a8%ef%bc%8bR62663
+[INFO TIME:2022-11-01 02:13:17,384] 小雷快递站(-1001883797209)消息：## 京东直播 ∶ 
+ 
+export DOU_LIVE_ID="11669030"
+[INFO TIME:2022-11-01 02:13:17,385] 小雷快递站(-1001883797209)消息：## 京东直播 ∶ 
+ 
+export DOU_LIVE_ID="11669030"
+[INFO TIME:2022-11-01 02:14:44,967] 小雷快递站(-1001883797209)消息：解析地址：https://shopmember.m.jd.com/shopcard/?shopId=1000002283&venderId=1000002283&sceneval=2&venderType=1&channel=406&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002070633_&utm_term=97579db52b644cd28cf152f733c0aa96
+[INFO TIME:2022-11-01 02:14:44,968] 小雷快递站(-1001883797209)消息：https://u.jd.com/xMSfrmh
+[INFO TIME:2022-11-01 02:14:44,970] 小雷快递站(-1001883797209)消息：哈罗下拉300积分换实物
+https://u.jd.com/xMSfrmh
+[INFO TIME:2022-11-01 02:14:44,971] 小雷快递站(-1001883797209)消息：解析地址：https://shopmember.m.jd.com/shopcard/?shopId=1000002283&venderId=1000002283&sceneval=2&venderType=1&channel=406&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002070633_&utm_term=33041fadd86643f297e795dbed421686
+[INFO TIME:2022-11-01 02:18:03,893] 267501
+[INFO TIME:2022-11-01 02:18:03,894] 文件准备完成:gua_opencard253.js
