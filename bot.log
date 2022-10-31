@@ -9,3 +9,224 @@
 [INFO TIME:2022-10-31 23:23:08,654] git push
 [INFO TIME:2022-10-31 23:23:58,292] 启动成功，开始监听群消息
 [INFO TIME:2022-10-31 23:24:10,759] 小雷快递站(-1001883797209)消息：删除 gua_opencard252.js
+[INFO TIME:2022-10-31 23:24:17,258] git push
+[INFO TIME:2022-10-31 23:27:24,473] 小雷快递站(-1001883797209)消息：export jd_zdjr_activityId="0a9bd82efb43448e9e4da6fd52130475"
+export jd_zdjr_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_zdjr_type="瓜分京豆"
+[INFO TIME:2022-10-31 23:27:45,543] 小雷快递站(-1001883797209)消息：export jd_zdjr_activityId="9380fdfc2fef480dbf048b17ef3cc5d6"
+export jd_zdjr_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_zdjr_type="瓜分积分"
+[INFO TIME:2022-10-31 23:30:19,143] 网络异常
+[INFO TIME:2022-10-31 23:31:53,898] 网络异常
+[INFO TIME:2022-10-31 23:32:09,504] 网络异常
+[INFO TIME:2022-10-31 23:33:06,684] 网络异常
+[INFO TIME:2022-10-31 23:33:14,028] 网络异常
+[INFO TIME:2022-10-31 23:33:55,074] 网络异常
+[INFO TIME:2022-10-31 23:34:31,712] 网络异常
+[INFO TIME:2022-10-31 23:35:25,667] 网络异常
+[INFO TIME:2022-10-31 23:35:37,080] 网络异常
+[INFO TIME:2022-10-31 23:36:00,831] 网络异常
+[INFO TIME:2022-10-31 23:36:49,633] 网络异常
+[INFO TIME:2022-10-31 23:37:01,260] 网络异常
+[INFO TIME:2022-10-31 23:37:12,859] 网络异常
+[INFO TIME:2022-10-31 23:37:24,569] 网络异常
+[INFO TIME:2022-10-31 23:37:36,290] 网络异常
+[INFO TIME:2022-10-31 23:38:25,860] 网络异常
+[INFO TIME:2022-10-31 23:38:42,347] 网络异常
+[INFO TIME:2022-10-31 23:40:26,615] 网络异常
+[INFO TIME:2022-10-31 23:42:04,692] 网络异常
+[INFO TIME:2022-10-31 23:42:24,330] 网络异常
+[INFO TIME:2022-10-31 23:44:04,305] 网络异常
+[INFO TIME:2022-10-31 23:44:12,326] 网络异常
+[INFO TIME:2022-10-31 23:44:15,521] 网络异常
+[INFO TIME:2022-10-31 23:44:19,683] 小雷快递站(-1001883797209)消息：export ACTIVITY_ID="f049f4f97d6843d59dff602192d2fb10"
+[INFO TIME:2022-10-31 23:44:19,684] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1667230989546/cjwx/common/entry.html?activityId=f12c8f358dfb4fdf9ac29e4c2d05d7e4"
+[INFO TIME:2022-10-31 23:45:01,655] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=99c0578de3944a7ab8a65a1717bc85c3"
+[INFO TIME:2022-10-31 23:45:17,876] 网络异常
+[INFO TIME:2022-10-31 23:49:54,591] 网络异常
+[INFO TIME:2022-10-31 23:51:04,476] 小雷快递站(-1001883797209)消息：export M_WX_ADD_CART_URL="https://lzkj-isv.isvjd.com/wxCollectionActivity/activity2/activity?activityId=1dc27872d0824b10b0cbdd669e59beba"
+[INFO TIME:2022-10-31 23:53:24,859] 网络异常
+[INFO TIME:2022-10-31 23:54:06,739] 小雷快递站(-1001883797209)消息：export M_WX_FANS_DRAW_URL="https://lzkjdz-isv.isvjcloud.com/wxFansInterActionActivity/activity/596552?activityId=5f54282fb8f348c38ba0cfcf21a42549"
+[INFO TIME:2022-10-31 23:58:43,684] 网络异常
+[INFO TIME:2022-10-31 23:59:24,351] 网络异常
+[INFO TIME:2022-10-31 23:59:49,194] 网络异常
+[INFO TIME:2022-11-01 00:00:05,078] 网络异常
+[INFO TIME:2022-11-01 00:00:43,238] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=d2fe2d15f3e647d78135ab2da4b8a88d"
+[INFO TIME:2022-11-01 00:02:42,696] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=a3469712c0b34cb78ab417c2b9a71d46"
+[INFO TIME:2022-11-01 00:03:12,292] 小雷快递站(-1001883797209)消息：export jd_zdjr_activityId="534caba7855543878f86dcfc3b97e75b"
+export jd_zdjr_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_zdjr_type="瓜分京豆"
+[INFO TIME:2022-11-01 00:03:12,294] 小雷快递站(-1001883797209)消息：export jd_zdjr_activityId="832fcec59c8c4045b9baffaf1796cfff"
+export jd_zdjr_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_zdjr_type="瓜分京豆"
+[INFO TIME:2022-11-01 00:03:48,540] 网络异常
+[INFO TIME:2022-11-01 00:04:03,869] 小雷快递站(-1001883797209)消息：export M_WX_CENTER_DRAW_URL="https://lzkj-isv.isvjcloud.com/drawCenter/activity?activityId=69f630c99c254abe9ebeee19a601d9ca"
+[INFO TIME:2022-11-01 00:05:54,205] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1667232295188/cjwx/common/entry.html?activityId=ab1f1faa8bcd4758bc522c0c4484c95d"
+[INFO TIME:2022-11-01 00:06:06,364] 网络异常
+[INFO TIME:2022-11-01 00:06:10,550] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/730405?activityId=b6bb56dda3aa4a81a399a9f123090a1c"
+[INFO TIME:2022-11-01 00:07:49,655] 小雷快递站(-1001883797209)消息：export M_WX_ADD_CART_URL="https://cjhy-isv.isvjcloud.com/wxCollectionActivity/activity/activity?activityId=edb489daf00b4d01951f00c419a706d3"
+[INFO TIME:2022-11-01 00:08:31,262] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1667232405688/cjwx/common/entry.html?activityId=c1bff7fd8e434903955a56941b985c63"
+[INFO TIME:2022-11-01 00:08:31,263] 小雷快递站(-1001883797209)消息：export M_WX_CENTER_DRAW_URL="https://lzkj-isv.isvjcloud.com/drawCenter/activity?activityId=e2a113010502486fa8a3c41f4079fd45"
+[INFO TIME:2022-11-01 00:09:48,605] 网络异常
+[INFO TIME:2022-11-01 00:12:39,064] 小雷快递站(-1001883797209)消息：export M_WX_COLLECT_CARD_URL="https://lzkjdz-isv.isvjcloud.com/wxCollectCard/activity/8728809?activityId=66f7a763b4a441079e070d9cdabb98ef"
+[INFO TIME:2022-11-01 00:12:39,065] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1667232590753/cjwx/common/entry.html?activityId=9ecfb862fced4f51b2ad1b035ee409a4"
+[INFO TIME:2022-11-01 00:12:39,066] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1667151867004/cjwx/common/entry.html?activityId=083596cb94694a6bac9e1e3afc570d25"
+[INFO TIME:2022-11-01 00:14:18,836] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/2056894?activityId=fe2f7a3f7f6645ccbc26968e3562b2a1"
+[INFO TIME:2022-11-01 00:14:36,575] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=c34f5b45d38e4bbd9530ba2437eaee44"
+[INFO TIME:2022-11-01 00:15:08,176] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1667232847657/cjwx/common/entry.html?activityId=72c236b04482484c8be9520205568bc1"
+[INFO TIME:2022-11-01 00:15:08,177] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=72c236b04482484c8be9520205568bc1"
+[INFO TIME:2022-11-01 00:15:16,271] 小雷快递站(-1001883797209)消息：export jd_zdjr_activityId="f80ef805a7c846099e61129c63a218da"
+export jd_zdjr_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_zdjr_type="瓜分积分"
+[INFO TIME:2022-11-01 00:15:52,382] 网络异常
+[INFO TIME:2022-11-01 00:16:09,915] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1667232901903/cjwx/common/entry.html?activityId=18fbd4a227e7473c8a32054601063d43"
+[INFO TIME:2022-11-01 00:17:55,224] 小雷快递站(-1001883797209)消息：export M_WX_ADD_CART_URL="https://cjhy-isv.isvjcloud.com/wxCollectionActivity/activity/activity?activityId=f5f85f64c5a145b8a5c93dc667fc2015"
+[INFO TIME:2022-11-01 00:18:12,721] 小雷快递站(-1001883797209)消息：export jd_zdjr_activityId="a8b94c0225754521ac5a2a98312e891e"
+export jd_zdjr_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_zdjr_type="瓜分积分"
+[INFO TIME:2022-11-01 00:19:18,632] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=2dbfdccb63fa4946903afe151b15962a"
+[INFO TIME:2022-11-01 00:19:27,396] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/6139985?activityId=d025030630da43f8ad28c38aa39b0980"
+[INFO TIME:2022-11-01 00:20:27,978] 小雷快递站(-1001883797209)消息：export M_WX_ADD_CART_URL="https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/activity?activityId=e68baf7832884c8492ff743b772603c7"
+[INFO TIME:2022-11-01 00:21:05,030] 小雷快递站(-1001883797209)消息：q
+[INFO TIME:2022-11-01 00:21:13,929] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=5572139135a94ae685bdfd8496418fd8"
+[INFO TIME:2022-11-01 00:21:34,438] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=6fa61e5442a44641937d85a42c182f2e"
+[INFO TIME:2022-11-01 00:21:41,995] 网络异常
+[INFO TIME:2022-11-01 00:21:59,519] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5474710?activityId=7d061d100ce54bb78167ce4a03528ff3"
+[INFO TIME:2022-11-01 00:22:29,985] 小雷快递站(-1001883797209)消息：export WXGAME_ACT_ID="8f0a57167efa440d8f6460f6b5397077"
+[INFO TIME:2022-11-01 00:22:29,986] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1667233233163/cjwx/common/entry.html?activityId=09bb12a457e14f7f8da781cd6c72161a"
+[INFO TIME:2022-11-01 00:22:35,420] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=1ade20b238dc4ad7b933205edf8e790d"
+[INFO TIME:2022-11-01 00:23:42,971] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=1b1b158068c44099965ccaaf108ec627"
+[INFO TIME:2022-11-01 00:23:54,319] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/2238102?activityId=84d76445ff664ca3ab2cffef50335b7e"
+[INFO TIME:2022-11-01 00:24:53,820] 小雷快递站(-1001883797209)消息：export M_WX_COLLECT_CARD_URL="https://lzkjdz-isv.isvjcloud.com/wxCollectCard/activity/8360224?activityId=66fdd1efdd1c46debea6c56b4b32507c"
+[INFO TIME:2022-11-01 00:25:06,189] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/6812457?activityId=6c51ab031d5147ea828809835712a978"
+[INFO TIME:2022-11-01 00:30:25,328] 网络异常
+[INFO TIME:2022-11-01 00:33:47,345] 小雷快递站(-1001883797209)消息：export M_WX_ADD_CART_URL="https://cjhy-isv.isvjcloud.com/wxCollectionActivity/activity/activity?activityId=65803a0326484e3e8c626adfc7f48169"
+[INFO TIME:2022-11-01 00:34:31,506] 小雷快递站(-1001883797209)消息：export M_WX_ADD_CART_URL="https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/activity?activityId=64476413d3e54cff8f167296e816d5d0"
+[INFO TIME:2022-11-01 00:39:12,186] 小雷快递站(-1001883797209)消息：export jd_zdjr_activityId="139f458f14ee416a8ecd1bd5e29edb3c"
+export jd_zdjr_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_zdjr_type="瓜分积分"
+[INFO TIME:2022-11-01 00:40:05,298] 小雷快递站(-1001883797209)消息：1
+[INFO TIME:2022-11-01 00:40:57,652] 网络异常
+[INFO TIME:2022-11-01 00:42:37,175] 网络异常
+[INFO TIME:2022-11-01 00:42:41,274] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1666899096077/cjwx/common/entry.html?activityId=ff8c08b1d6b44f75ac4ac88a62840024"
+[INFO TIME:2022-11-01 00:42:41,276] 小雷快递站(-1001883797209)消息：export jd_zdjr_activityId="f265210d4cdd44f2b722ce23193b582c"
+export jd_zdjr_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_zdjr_type="瓜分积分"
+[INFO TIME:2022-11-01 00:46:05,219] 小雷快递站(-1001883797209)消息：export M_WX_FANS_DRAW_URL="https://lzkjdz-isv.isvjcloud.com/wxFansInterActionActivity/activity/2631671?activityId=d0cbc39de7844839abf4253040a25c8f"
+[INFO TIME:2022-11-01 00:52:02,696] 小雷快递站(-1001883797209)消息：1
+[INFO TIME:2022-11-01 00:56:12,776] 小雷快递站(-1001883797209)消息：export jd_zdjr_activityId="9e43e233b314475b91cef114ec57a88f"
+export jd_zdjr_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_zdjr_type="瓜分积分"
+[INFO TIME:2022-11-01 00:58:44,281] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1667235457280/cjwx/common/entry.html?activityId=a0562a33e3a24bb0ae2fa73cc65a9251"
+[INFO TIME:2022-11-01 00:59:31,419] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1667235503094/cjwx/common/entry.html?activityId=97eed9f721fa4cd78a3752bfe143afd8"
+[INFO TIME:2022-11-01 00:59:46,965] 小雷快递站(-1001883797209)消息：export M_WX_ADD_CART_URL="https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/activity?activityId=5413f22ca436427594f228ad7dc5d039"
+[INFO TIME:2022-11-01 01:00:46,816] 网络异常
+[INFO TIME:2022-11-01 01:05:52,448] 网络异常
+[INFO TIME:2022-11-01 01:08:25,899] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1667236042394/cjwx/common/entry.html?activityId=0750202d8aca4e3dbbcada95afbaeb9d"
+[INFO TIME:2022-11-01 01:13:47,723] 网络异常
+[INFO TIME:2022-11-01 01:13:55,738] 网络异常
+[INFO TIME:2022-11-01 01:14:21,841] 小雷快递站(-1001883797209)消息：export jd_zdjr_activityId="138e25c4bcf14b5a9b44f99a35bba1e3"
+export jd_zdjr_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_zdjr_type="瓜分积分"
+[INFO TIME:2022-11-01 01:16:33,777] 小雷快递站(-1001883797209)消息：export M_WX_ADD_CART_URL="https://lzkj-isv.isvjcloud.com/wxCollectionActivity/activity2/activity?activityId=44971070906940d7a2996396b843c202"
+[INFO TIME:2022-11-01 01:18:05,955] 小雷快递站(-1001883797209)消息：export jd_zdjr_activityId="b173836614954f929562148ed91f1e59"
+export jd_zdjr_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_zdjr_type="瓜分京豆"
+[INFO TIME:2022-11-01 01:20:17,705] 小雷快递站(-1001883797209)消息：export jd_zdjr_activityId="478e301acf9c437b96e78f2f0c6a4abc"
+export jd_zdjr_activityUrl="https://cjhydz-isv.isvjcloud.com"
+export jd_zdjr_type="瓜分积分"
+[INFO TIME:2022-11-01 01:20:25,736] 网络异常
+[INFO TIME:2022-11-01 01:20:47,627] 小雷快递站(-1001883797209)消息：export ACTIVITY_ID="c409c26cf4294c7ea34efa671de5bc62"
+[INFO TIME:2022-11-01 01:20:56,573] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/8899141?activityId=66225fd878dc46c2b6e04fb0d913bc12"
+[INFO TIME:2022-11-01 02:06:06,536] 启动成功，开始监听群消息
+[INFO TIME:2022-11-01 02:06:11,989] 小雷快递站(-1001883797209)消息：export M_WX_SECOND_DRAW_URL="https://lzkjdz-isv.isvjcloud.com/wxSecond/activity?activityId=166e4e42f3234b36b48cf4d0bc778968"
+[INFO TIME:2022-11-01 02:06:11,991] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5670244?activityId=c3126afcf30241f2a18cce6b1366d58e"
+[INFO TIME:2022-11-01 02:06:11,993] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=245924840cf84a7b88ff893d14787282"
+[INFO TIME:2022-11-01 02:06:11,995] 小雷快递站(-1001883797209)消息：export M_WX_SECOND_DRAW_URL="https://lzkjdz-isv.isvjcloud.com/wxSecond/activity?activityId=6a5e5f54b1044d399c961b41a02b5cfc"
+[INFO TIME:2022-11-01 02:06:11,997] 小雷快递站(-1001883797209)消息：http://jd.lsy22.cn/Ah1
+[INFO TIME:2022-11-01 02:06:11,998] 小雷快递站(-1001883797209)消息：export LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5670244?activityId=c3126afcf30241f2a18cce6b1366d58e"
+[INFO TIME:2022-11-01 02:06:12,000] 小雷快递站(-1001883797209)消息：解析地址：https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5670244?activityId=c3126afcf30241f2a18cce6b1366d58e&shareuserid4minipg=A3BDcIXTnX9wyUZHBEEHXZg%252B7GbSKNk26q5GzBQZNgKQ9gF81DCaDPiq52lHS8CF&shopid=1000005754&_ts=1667238352294&utm_source=iosapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends&ad_od=share&utm_user=plusmember
+[INFO TIME:2022-11-01 02:06:12,002] 小雷快递站(-1001883797209)消息：## 转盘抽奖 ∶ 
+ 
+export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5670244?activityId=c3126afcf30241f2a18cce6b1366d58e"
+[INFO TIME:2022-11-01 02:06:12,003] 小雷快递站(-1001883797209)消息：## 转盘抽奖 ∶ 
+ 
+export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5670244?activityId=c3126afcf30241f2a18cce6b1366d58e"
+[INFO TIME:2022-11-01 02:06:12,004] 小雷快递站(-1001883797209)消息：export LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=245924840cf84a7b88ff893d14787282"
+[INFO TIME:2022-11-01 02:06:12,006] 小雷快递站(-1001883797209)消息：https://lzkj-isv.isvjcloud.com/lzclient/1667238672300/cjwx/common/entry.html?activityId=245924840cf84a7b88ff893d14787282&gameType=wxTurnTable&shareuserid4minipg=6Y8VEuK7IC9Nsz86TCU3yU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==&shopid=1000006201
+[INFO TIME:2022-11-01 02:06:12,007] 小雷快递站(-1001883797209)消息：export jd_wxDraw_wxId="https://lzkj-isv.isvjcloud.com/lzclient/1667238672300/cjwx/common/entry.html?activityId=245924840cf84a7b88ff893d14787282&gameType=wxTurnTable&shareuserid4minipg=6Y8VEuK7IC9Nsz86TCU3yU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==&shopid=1000006201"
+[INFO TIME:2022-11-01 02:06:12,008] 小雷快递站(-1001883797209)消息：## 转盘抽奖 ∶ 
+ 
+export M_WX_LUCK_DRAW_URL="https://lzkj-isv.isvjcloud.com/lzclient/1667238672300/cjwx/common/entry.html?activityId=245924840cf84a7b88ff893d14787282"
+[INFO TIME:2022-11-01 02:06:12,009] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5670244?activityId=c3126afcf30241f2a18cce6b1366d58e"
+[INFO TIME:2022-11-01 02:06:12,011] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5670244?activityId=c3126afcf30241f2a18cce6b1366d58e&shareuserid4minipg=A3BDcIXTnX9wyUZHBEEHXZg%252B7GbSKNk26q5GzBQZNgKQ9gF81DCaDPiq52lHS8CF&shopid=1000005754&_ts=1667238352294&utm_source=iosapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends&ad_od=share&utm_user=plusmember"
+[INFO TIME:2022-11-01 02:06:12,012] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=245924840cf84a7b88ff893d14787282"
+[INFO TIME:2022-11-01 02:06:12,013] 小雷快递站(-1001883797209)消息：export LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/5670244?activityId=c3126afcf30241f2a18cce6b1366d58e"
+[INFO TIME:2022-11-01 02:06:12,014] 小雷快递站(-1001883797209)消息：export jd_task_jgyl_custom="https://cjhy-isv.isvjcloud.com/wxCollectionActivity/activity?activityId=9b89cbc6b8af480cb7030c2abdb6e2a9"
+[INFO TIME:2022-11-01 02:06:12,016] 小雷快递站(-1001883797209)消息：export LUCK_DRAW_URL="https://lzkj-isv.isvjd.com/wxDrawActivity/activity/activity?activityId=245924840cf84a7b88ff893d14787282"
+[INFO TIME:2022-11-01 02:06:12,017] 小雷快递站(-1001883797209)消息：https://u.jd.com/xLSERPY
+[INFO TIME:2022-11-01 02:06:12,018] 小雷快递站(-1001883797209)消息：解析地址：https://lives.jd.com/?d=xLSERPY&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002070633_1589_169_1&utm_term=c7484028fe4446c9b5992f7949efcd16#/11594989?sharer=%e8%93%9d%e8%89%b2%e9%9b%a8%ef%bc%8bR62663
+[INFO TIME:2022-11-01 02:06:12,019] 小雷快递站(-1001883797209)消息：## 京东直播 ∶ 
+ 
+export DOU_LIVE_ID="11594989"
+[INFO TIME:2022-11-01 02:06:12,019] 小雷快递站(-1001883797209)消息：## 京东直播 ∶ 
+ 
+export DOU_LIVE_ID="11594989"
+[INFO TIME:2022-11-01 02:06:12,020] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://lzkj-isv.isvjcloud.com/lzclient/1667238672300/cjwx/common/entry.html?activityId=245924840cf84a7b88ff893d14787282&gameType=wxTurnTable&shopid=1000006201"
+[INFO TIME:2022-11-01 02:06:12,021] 小雷快递站(-1001883797209)消息：[礼物]抢京/东1111🧧
+①领完每天分享1-4人再得2🧧
+②累计获助力20个可得11.11🧧
+直达官网：
+https://u.jd.com/xIS8fLA
+J东app搜【  一帆风顺698  】
+[INFO TIME:2022-11-01 02:06:12,022] 小雷快递站(-1001883797209)消息：解析地址：https://prodev.m.jd.com/mall/active/7j1E8kyVs3H3o6R2k4nUu7Vjy3J/index.html?unionActId=31149&uabt=169_623_1&d=xIS8fLA&s=&cu=true&utm_source=kong&utm_medium=jingfen&utm_campaign=t_1002354188_&utm_term=61936f8e4f7745fa820747f9d3226600
+[INFO TIME:2022-11-01 02:06:12,023] 小雷快递站(-1001883797209)消息：## 读秒 ∶ 
+ 
+export jd_wxSecond_activityId="6a5e5f54b1044d399c961b41a02b5cfc"
+[INFO TIME:2022-11-01 02:06:12,024] 小雷快递站(-1001883797209)消息：https://lzkjdz-isv.isvjcloud.com/wxSecond/activity?activityId=6a5e5f54b1044d399c961b41a02b5cfc&shareuserid4minipg=ixaKACMHzt107D3uPA8WcPkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw&shopid=1000002628
+[INFO TIME:2022-11-01 02:06:12,025] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://lzkj-isv.isvjcloud.com/wxDrawActivity/activity?activityId=245924840cf84a7b88ff893d14787282"
+[INFO TIME:2022-11-01 02:06:12,026] 小雷快递站(-1001883797209)消息：https://jinggeng-isv.isvjcloud.com/ql/front/showPartition?id=9e8080a48407be82018408c3f45a26d9&user_id=1000008625&inviterNick=U4QlobeXbHforzr9YI+2u14tLNYA4seuA67MOIYQxEk3Vl9+AVo4NF+tgyeIc6A6kdK3rLBQpEQH9V4tdrrh0w==&teamId=9e808099840dae1301842f2cf4a038e7
+[INFO TIME:2022-11-01 02:06:12,027] 小雷快递站(-1001883797209)消息：export jd_wxSecond_activityId="6a5e5f54b1044d399c961b41a02b5cfc"
+[INFO TIME:2022-11-01 02:06:12,028] 小雷快递站(-1001883797209)消息：https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/?activityType=10032&activityId=1585956552112271361&templateId=20210621190900jkyl021&nodeId=101001&prd=cjwx&sid=dc26f90e8d36863792c21ee46ada0c7w&un_area=14_1116_3434_51628&shareUserId=1587140721308676098&shareuserid4minipg=rTGIuIJvY4P9JPUGWUL+vU7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==&shopid=1000006201
+[INFO TIME:2022-11-01 02:06:12,028] 小雷快递站(-1001883797209)消息：export jd_wxSecond_activityId="6a5e5f54b1044d399c961b41a02b5cfc"
+[INFO TIME:2022-11-01 02:06:12,029] 小雷快递站(-1001883797209)消息：export jd_task_djlb_custom="https://cjhy-isv.isvjcloud.com/mc/wxMcLevelAndBirthGifts/activity?activityId=30bae38cfcc04bb9a85af6b11f12359e"
+[INFO TIME:2022-11-01 02:06:12,030] 小雷快递站(-1001883797209)消息：export jd_task_qdyl_custom="https://cjhy-isv.isvjcloud.com/sign/signActivity?activityId=11014d2b19eb4040bdc216d776b3575e&venderId=1000074823&"
+[INFO TIME:2022-11-01 02:06:12,030] 小雷快递站(-1001883797209)消息：export jd_task_mdsx_custom="https://lzkjdz-isv.isvjcloud.com/wxSecond/activity?activityId=6a5e5f54b1044d399c961b41a02b5cfc&shopid=1000002628"
+[INFO TIME:2022-11-01 02:06:12,031] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=62b7eef99df4451991495428f83cc002"
+[INFO TIME:2022-11-01 02:06:12,032] 小雷快递站(-1001883797209)消息：export jd_task_mdsx_custom="https://lzkj-isv.isvjcloud.com/wxSecond/activity?activityId=6a5e5f54b1044d399c961b41a02b5cfc"
+[INFO TIME:2022-11-01 02:06:12,032] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=c502bf8655c34b3a8b2c58b8a92debea"
+[INFO TIME:2022-11-01 02:06:12,033] 小雷快递站(-1001883797209)消息：https://lzkjdz-isv.isvjcloud.com/wxSecond/activity?activityId=166e4e42f3234b36b48cf4d0bc778968&shareuserid4minipg=ixaKACMHzt107D3uPA8WcPkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw&shopid=1000128255
+[INFO TIME:2022-11-01 02:06:12,034] 小雷快递站(-1001883797209)消息：## 读秒 ∶ 
+ 
+export jd_wxSecond_activityId="166e4e42f3234b36b48cf4d0bc778968"
+[INFO TIME:2022-11-01 02:06:12,034] 小雷快递站(-1001883797209)消息：https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/?activityType=10032&activityId=1585956552112271361&templateId=20210621190900jkyl021&nodeId=101001&prd=cjwx&=&&shareUserId=1587141232963432449&shareuserid4minipg=U4QlobeXbHforzr9YI+2u07oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==&shopid=1000006201
+[INFO TIME:2022-11-01 02:06:12,035] 小雷快递站(-1001883797209)消息：http://jd.lsy22.cn/Ah4
+[INFO TIME:2022-11-01 02:06:12,036] 小雷快递站(-1001883797209)消息：export LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/455706?activityId=019ac55b8404457ead316662ae66d119"
+[INFO TIME:2022-11-01 02:06:12,037] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/455706?activityId=019ac55b8404457ead316662ae66d119"
+[INFO TIME:2022-11-01 02:06:12,037] 小雷快递站(-1001883797209)消息：解析地址：https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/455706?activityId=019ac55b8404457ead316662ae66d119&shareuserid4minipg=A3BDcIXTnX9wyUZHBEEHXZg%252B7GbSKNk26q5GzBQZNgKQ9gF81DCaDPiq52lHS8CF&shopid=1000014349&_ts=1667238811114&utm_source=iosapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends&ad_od=share&utm_user=plusmember
+[INFO TIME:2022-11-01 02:06:12,038] 小雷快递站(-1001883797209)消息：## 转盘抽奖 ∶ 
+ 
+export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/455706?activityId=019ac55b8404457ead316662ae66d119"
+[INFO TIME:2022-11-01 02:06:12,039] 小雷快递站(-1001883797209)消息：## 转盘抽奖 ∶ 
+ 
+export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/455706?activityId=019ac55b8404457ead316662ae66d119"
+[INFO TIME:2022-11-01 02:06:12,040] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/455706?activityId=019ac55b8404457ead316662ae66d119"
+[INFO TIME:2022-11-01 02:06:12,041] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/455706?activityId=019ac55b8404457ead316662ae66d119&shareuserid4minipg=A3BDcIXTnX9wyUZHBEEHXZg%252B7GbSKNk26q5GzBQZNgKQ9gF81DCaDPiq52lHS8CF&shopid=1000014349&_ts=1667238811114&utm_source=iosapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=Wxfriends&ad_od=share&utm_user=plusmember"
+[INFO TIME:2022-11-01 02:06:12,042] 小雷快递站(-1001883797209)消息：export LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity/455706?activityId=019ac55b8404457ead316662ae66d119"
+[INFO TIME:2022-11-01 02:06:12,042] 小雷快递站(-1001883797209)消息：export jd_wxCollectionActivity_activityUrl="https://cjhy-isv.isvjcloud.com/wxCollectionActivity/activity?activityId=9b89cbc6b8af480cb7030c2abdb6e2a9"
+[INFO TIME:2022-11-01 02:06:12,043] 小雷快递站(-1001883797209)消息：export jd_showPartition_activityUrl="https://jinggeng-isv.isvjcloud.com/ql/front/showPartition?id=9e8080a48407be82018408c3f45a26d9&user_id=1000008625"
+[INFO TIME:2022-11-01 02:06:12,044] 小雷快递站(-1001883797209)消息：export jd_shopSign_activityUrl="https://cjhy-isv.isvjcloud.com/sign/signActivity?activityId=11014d2b19eb4040bdc216d776b3575e"
+[INFO TIME:2022-11-01 02:06:12,045] 小雷快递站(-1001883797209)消息：export LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=62b7eef99df4451991495428f83cc002"
+[INFO TIME:2022-11-01 02:06:12,046] 小雷快递站(-1001883797209)消息：export jd_wxMcLevelAndBirthGifts_activityId="30bae38cfcc04bb9a85af6b11f12359e"
+[INFO TIME:2022-11-01 02:06:12,047] 小雷快递站(-1001883797209)消息：export LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=c502bf8655c34b3a8b2c58b8a92debea"
+[INFO TIME:2022-11-01 02:06:12,047] 小雷快递站(-1001883797209)消息：https://lzkjdz-isv.isvjcloud.com/wxSecond/activity?activityId=5416fe800cd04d7794ee97f2b90df01d&shareuserid4minipg=ixaKACMHzt107D3uPA8WcPkaL5GGqMTUc8u/otw2E+a7Ak3lgFoFQlZmf45w8Jzw&shopid=1000310642
+[INFO TIME:2022-11-01 02:06:12,048] 小雷快递站(-1001883797209)消息：## 读秒 ∶ 
+ 
+export jd_wxSecond_activityId="5416fe800cd04d7794ee97f2b90df01d"
+[INFO TIME:2022-11-01 02:06:12,049] 小雷快递站(-1001883797209)消息：export LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=62b7eef99df4451991495428f83cc002"
+[INFO TIME:2022-11-01 02:06:12,050] 小雷快递站(-1001883797209)消息：export LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=c502bf8655c34b3a8b2c58b8a92debea"
+[INFO TIME:2022-11-01 02:06:12,051] 小雷快递站(-1001883797209)消息：export jd_task_zpcj_custom="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=019ac55b8404457ead316662ae66d119"
+[INFO TIME:2022-11-01 02:06:12,052] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=62b7eef99df4451991495428f83cc002"
+[INFO TIME:2022-11-01 02:06:12,052] 小雷快递站(-1001883797209)消息：export M_WX_ADD_CART_URL="https://cjhy-isv.isvjcloud.com/wxCollectionActivity/activity?activityId=9b89cbc6b8af480cb7030c2abdb6e2a9"
+[INFO TIME:2022-11-01 02:06:12,053] 小雷快递站(-1001883797209)消息：export M_WX_LUCK_DRAW_URL="https://cjhy-isv.isvjcloud.com/wxDrawActivity/activity?activityId=c502bf8655c34b3a8b2c58b8a92debea"
+[INFO TIME:2022-11-01 02:06:12,054] 小雷快递站(-1001883797209)消息：删除 gua_opencard252.js
